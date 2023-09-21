@@ -1,1 +1,1 @@
-FROM xyouxiu6/go-chatgpt-api:v20
+FROM xyouxiu6/go-chatgpt-api:v22
